@@ -1,4 +1,4 @@
-# FastaPI URL Shortener
+# FastAPI URL Shortener
 
 ## Develop
 
